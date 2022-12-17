@@ -1,0 +1,261 @@
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button /--></div>
+<!-- /wp:buttons -->
+
+<!-- wp:media-text {"align":"full","mediaPosition":"right","mediaId":11,"mediaLink":"https://bitterleafcom.wordpress.com/picture1/","mediaType":"image","mediaWidth":30,"imageFill":true,"backgroundColor":"primary","className":"alignfull has-background"} -->
+<div class="wp-block-media-text alignfull has-media-on-the-right is-stacked-on-mobile is-image-fill has-background has-primary-background-color" style="grid-template-columns:auto 30%"><div class="wp-block-media-text__content"><!-- wp:spacer {"height":"64px"} -->
+<div style="height:64px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading"><strong>Organic Home Grown Bitter Leaf</strong></h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>10 years of growing organic bitter leaf and delivering fresh produce from our farm house in Gauteng.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"64px"} -->
+<div style="height:64px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div><figure class="wp-block-media-text__media" style="background-image:url(https://bitterleafcom.files.wordpress.com/2022/03/picture1.jpg?w=602);background-position:50% 50%"><img src="https://bitterleafcom.files.wordpress.com/2022/03/picture1.jpg?w=602" alt="" class="wp-image-11 size-full"/></figure></div>
+<!-- /wp:media-text -->
+
+<!-- wp:group {"align":"full","backgroundColor":"background"} -->
+<div class="wp-block-group alignfull has-background-background-color has-background"><!-- wp:spacer {"height":"32px"} -->
+<div style="height:32px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph {"align":"center","className":"margin-bottom-half","fontSize":"small"} -->
+<p class="has-text-align-center margin-bottom-half has-small-font-size"><strong>Services</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"center","className":"margin-top-half"} -->
+<h2 class="wp-block-heading has-text-align-center margin-top-half">What We Do</h2>
+<!-- /wp:heading -->
+
+<!-- wp:separator {"opacity":"css"} -->
+<hr class="wp-block-separator has-css-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":43,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://bitterleafcom.files.wordpress.com/2022/03/picture7.png?w=295" alt="" class="wp-image-43"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>We grow and harvest organic bitter leaf that is affordable, seasonal, and as fresh and local as possible.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":47,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://bitterleafcom.files.wordpress.com/2022/03/picture8-edited.png" alt="" class="wp-image-47"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>We have different sizes of packaging available to suite various uses of the plant</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":48,"width":278,"height":224,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large is-resized"><img src="https://bitterleafcom.files.wordpress.com/2022/03/picture2.png?w=570" alt="" class="wp-image-48" width="278" height="224"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>We are flexible with the ways in which the plant is prepared. Fresh, sundried or washed, we deliver within standard time </p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"32px"} -->
+<div style="height:32px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group -->
+
+<!-- wp:cover {"url":"https://barnsburydemo.files.wordpress.com/2019/09/naseem-buras-cwpy-hpdt9q-unsplash-copy-4.jpg","id":153,"hasParallax":true,"dimRatio":30,"isDark":false,"align":"full"} -->
+<div class="wp-block-cover alignfull is-light has-parallax"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-30 has-background-dim"></span><div role="img" class="wp-block-cover__image-background wp-image-153 has-parallax" style="background-position:50% 50%;background-image:url(https://barnsburydemo.files.wordpress.com/2019/09/naseem-buras-cwpy-hpdt9q-unsplash-copy-4.jpg)"></div><div class="wp-block-cover__inner-container"><!-- wp:spacer {"height":"32px"} -->
+<div style="height:32px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph {"align":"center","className":"margin-bottom-half","fontSize":"small"} -->
+<p class="has-text-align-center margin-bottom-half has-small-font-size"><strong>Meet us better</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"center","className":"margin-top-half"} -->
+<h2 class="wp-block-heading has-text-align-center margin-top-half">Our Organic Farm's History</h2>
+<!-- /wp:heading -->
+
+<!-- wp:separator {"opacity":"css"} -->
+<hr class="wp-block-separator has-css-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph {"align":"center","textColor":"background"} -->
+<p class="has-text-align-center has-background-color has-text-color"><em>Ten years ago we transplanted our first Onugbu plant in the rich soil of our farm house located in Gauteng, South Africa. Ever since then our crops have thrived and multiplied without the use of harmful pesticides, synthetic fertilizes and genetic engineering. Our responsibility as your bitter leaf supplier is to deliver our greens on time in excellent condition.&nbsp;</em></p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:group {"align":"full"} -->
+<div class="wp-block-group alignfull"><!-- wp:spacer {"height":"32px"} -->
+<div style="height:32px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:media-text {"mediaId":14,"mediaLink":"https://bitterleafcom.wordpress.com/picture3/","mediaType":"image","imageFill":true,"className":"alignwide"} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile is-image-fill"><figure class="wp-block-media-text__media" style="background-image:url(https://bitterleafcom.files.wordpress.com/2022/03/picture3.png?w=531);background-position:50% 50%"><img src="https://bitterleafcom.files.wordpress.com/2022/03/picture3.png?w=531" alt="" class="wp-image-14 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:spacer {"height":"32px"} -->
+<div style="height:32px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Why You'll Love Us</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>One of the many popular west African dishes that incorporate bitter leaf is <em>Onugbu soup</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>There is never been a better time to eat organic. Organic means working with nature. We’re coming into a fantastic time for Africa food.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>Ethical</strong> </li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Sustainable</strong></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Seasonal</strong></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Free delivery</strong></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Holiday specials</strong></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:spacer {"height":"32px"} -->
+<div style="height:32px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:spacer {"height":"32px"} -->
+<div style="height:32px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"backgroundColor":"primary","gradient":"electric-grass"} -->
+<div class="wp-block-group has-electric-grass-gradient-background has-primary-background-color has-background"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Preperation</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top"} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:heading -->
+<h2 class="wp-block-heading"><em>'fresh bitter leaf'&nbsp;</em></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><em>plucked and packaged</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>R50 per kg</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top"} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:heading -->
+<h2 class="wp-block-heading"><em>'dried bitter   leaf </em>'</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><em>plucked, dried and packaged</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>R60 per kg</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top"} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:heading -->
+<h2 class="wp-block-heading"><em>'washed bitter leaf '</em></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>plucked, washed and packaged</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>R65 per kg</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:columns {"align":"wide","backgroundColor":"background","className":"margin-top-none"} -->
+<div class="wp-block-columns alignwide margin-top-none has-background-background-color has-background"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:jetpack/rating-star {"rating":5,"align":"center","className":"margin-bottom-half"} -->
+<figure class="wp-block-jetpack-rating-star margin-bottom-half" style="text-align:center"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></figure>
+<!-- /wp:jetpack/rating-star -->
+
+<!-- wp:paragraph {"align":"center","className":"margin-top-half"} -->
+<p class="has-text-align-center margin-top-half"><strong>"Excellent Service"</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center","className":"margin-bottom-none","fontSize":"small"} -->
+<p class="has-text-align-center margin-bottom-none has-small-font-size">Their service is brilliant! I really hope some of them are now using your service.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center","className":"margin-top-none","fontSize":"small"} -->
+<p class="has-text-align-center margin-top-none has-small-font-size"><strong>Nnenna</strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:jetpack/rating-star {"rating":5,"align":"center","className":"margin-bottom-half"} -->
+<figure class="wp-block-jetpack-rating-star margin-bottom-half" style="text-align:center"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></figure>
+<!-- /wp:jetpack/rating-star -->
+
+<!-- wp:paragraph {"align":"center","className":"margin-top-half"} -->
+<p class="has-text-align-center margin-top-half"><strong>"Love the flexibility"</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center","className":"margin-bottom-none","fontSize":"small"} -->
+<p class="has-text-align-center margin-bottom-none has-small-font-size">We are very happy with the washed bitter leaf.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center","className":"margin-top-none","fontSize":"small"} -->
+<p class="has-text-align-center margin-top-none has-small-font-size"><strong>Joseph</strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:jetpack/rating-star {"rating":4,"align":"center","className":"margin-bottom-half"} -->
+<figure class="wp-block-jetpack-rating-star margin-bottom-half" style="text-align:center"><span>★</span><span>★</span><span>★</span><span>★</span></figure>
+<!-- /wp:jetpack/rating-star -->
+
+<!-- wp:paragraph {"align":"center","className":"margin-top-half"} -->
+<p class="has-text-align-center margin-top-half"><strong>"Fantastic quality"</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center","className":"margin-bottom-none","fontSize":"small"} -->
+<p class="has-text-align-center margin-bottom-none has-small-font-size">I'm really appreciating the quality and presentation. The flavour of the veg is outstanding.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center","className":"margin-top-none","fontSize":"small"} -->
+<p class="has-text-align-center margin-top-none has-small-font-size"><strong>Michelle</strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"32px"} -->
+<div style="height:32px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group -->
